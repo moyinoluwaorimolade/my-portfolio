@@ -14,8 +14,8 @@
                     <span class="text-gradient d-inline">Explore my projects and learn more about my work.</span>
                   </div><br>
                   <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
-                    <a class="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="resume.html">Resume</a>
-                    <a class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="projects.html">Projects</a>
+                    <router-link class="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" to="/resume">Resume</router-link>
+                    <router-link class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" to="/projects">Projects</router-link>
                   </div>
                 </div>
               </div>
@@ -44,7 +44,7 @@
         </header>
 
         <!-- About Section -->
-        <section class="bg-light py-5">
+        <section class="bg-light py-5" style="background-color:rgb(253 241 242 / 56%);">
           <div class="container px-5">
             <div class="row gx-5 justify-content-center">
               <div class="col-xxl-8">
@@ -97,14 +97,15 @@ export default {
 .btn-primary {
     color: #fff;
     background-color: #ad4852;
-    border-color: #721c24;
-    --bs-btn-hover-bg: #721c24;
+    border-color: rgb(253 241 242 / 56%);;
+    --bs-btn-hover-bg: rgb(253 241 242 / 56%);;
     --bs-btn-hover-border-color: #721c24;
+        --bs-btn-active-bg: #ad4852;
+        --bs-btn-hover-color: #721c24;
 }
 
 a {
     color: #ad4852;
-    //text-decoration: underline;
 }
 
 

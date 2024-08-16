@@ -46,4 +46,10 @@ export default {
 .text-primary {
         color: #ad4852;
 }
+/* Navbar background remains white */
+.navbar {
+  background-color: rgb(253 241 242 / 56%);;
+}
+
+
 </style>

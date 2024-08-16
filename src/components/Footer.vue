@@ -6,11 +6,11 @@
           <small class="m-0">Copyright &copy; Hannah Moyinoluwa Orimolade 2024</small>
         </div>
         <div class="col-auto">
-          <a class="small" href="#!">Privacy</a>
+          <router-link class="small" to="/privacy">Privacy</router-link>
           <span class="mx-1">&middot;</span>
           <!--<a class="small" href="#!">Terms</a>
           <span class="mx-1">&middot;</span>-->
-          <a class="small" href="#!">Contact</a>
+          <router-link class="small" to="/mycontact">Contact</router-link>
         </div>
       </div>
     </div>

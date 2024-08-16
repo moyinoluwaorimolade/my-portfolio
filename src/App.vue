@@ -7,10 +7,11 @@
       <meta name="author" content="" />
       <title>Personal - Start Bootstrap Theme</title>
       <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-      <!-- Include external CSS -->
-      <link rel="stylesheet" href="path/to/your/css/file.css" />
+      <!-- Include external CSS 
+      <link rel="stylesheet" href="path/to/your/css/file.css" />-->
     </head>
     <body class="d-flex flex-column h-100" style="background-color:hwb(354.64deg 65.1% 12.94% / 56%);">
+    <!--second possible colour: rgb(253 241 242 / 56%);-->
       <main class="flex-shrink-0">
         <!-- Navigation -->
         <Navbar />
@@ -40,11 +41,16 @@ Navbar
 };
 </script>
 
-<style scoped>
+<style >
 /* Add your styles here */
 a {
     color: #ad4852;
-    //text-decoration: underline;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    width: 100%;
+  }
 }
 </style>
 
