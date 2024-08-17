@@ -21,15 +21,15 @@
 						<div class="mx-3 mt-3">
 							<div>
 								<h6>Phone Number</h6>
-								<p>08102378276</p>
+								<p><a href="tel:08102378276">08102378276</a></p>
 							</div>
 
-							<div>
+							<div class="mt-2">
 								<h6>Email Address</h6>
-								<p>moyinoluwaorimolade0@gmail.com</p>
-							</div>
+								<p><a href="mailto:moyinoluwaorimolade0@gmail.com" >moyinoluwaorimolade0@gmail.com</a></p>
+															</div>
 
-							<div>
+							<div class="mt-2">
 								<h6>Linkedin</h6>
 								<p>www.linkedin.com/in/orimolade-moyinoluwa-18915a210</p>
 							</div>
@@ -46,5 +46,8 @@
 </template>
 <script>
 </script>
-<style>
+<style scoped>
+a {
+  text-decoration: none; /* no underline */
+}
 </style>
