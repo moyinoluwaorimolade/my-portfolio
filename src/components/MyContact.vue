@@ -48,6 +48,6 @@
 </script>
 <style scoped>
 a {
-  text-decoration: none; /* no underline */
+  color:#ad4852;
 }
 </style>

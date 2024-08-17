@@ -13,7 +13,7 @@ export default createStore({
       
       {
         name: 'RentItRight',
-        type: 'Web Application',
+        type: 'Modern Web Application',
         link: 'https://bitbucket.org/moyinoluwaorimolade/workspace',
         description: 'A rental property management website.',
         technologies: ['Vue.js', 'JavaScript', 'Java', 'Bootstrap','HTML','CSS'],

@@ -40,20 +40,31 @@
 
     <section class="mt-4">
       <h3>Projects</h3>
-      <p><strong>RentItRight | Website Development</strong></p>
-      <ul>
-        <li>Developed a comprehensive rental property management website.</li>
-        <li>Implemented user-friendly interfaces using Vue.js and JavaScript to enhance user experience.</li>
-        <li>Developed backend services using Java to handle data processing and storage.</li>
-        <li>Integrated database solutions to manage property listings, tenant information, and rental transactions.</li>
-        <li>Collaborated with a team of developers to ensure seamless integration of features and functionalities.</li>
-        <li>Conducted rigorous testing to ensure the website met high standards of performance and reliability.</li>
-      </ul>
+      <p><strong>RentItRight | Java Web Application</strong></p>
+<ul>
+  <li>Developed a comprehensive rental property management website using Java Servlets, JSP, CSS, and HTML.</li>
+  <li>Implemented user-friendly interfaces to enhance user experience with traditional web technologies.</li>
+  <li>Built backend services to handle data processing and storage.</li>
+  <li>Integrated database solutions to manage property listings, tenant information, and rental transactions.</li>
+  <li>Collaborated with a team of developers to ensure seamless integration of features and functionalities.</li>
+  <li>Conducted rigorous testing to ensure the website met high standards of performance and reliability.</li>
+</ul>
+
+<p><strong>RentItRight | Modern Web Application</strong></p>
+<ul>
+  <li>Revamped the RentItRight project to a modern web application using Vue.js and Bootstrap for the frontend, and Java (Jersey JAX-RS) for the backend.</li>
+  <li>Single-handedly modified the frontend from traditional Java web technologies to a dynamic Vue.js and Bootstrap interface.</li>
+  <li>Rebuilt backend services using Java Jersey JAX-RS to support modern web application needs.</li>
+  <li>Enhanced user experience with a responsive and interactive frontend while ensuring robust backend performance.</li>
+  <li>Maintained and updated the application to incorporate new features and improvements based on user feedback.</li>
+  <li>Performed comprehensive testing to ensure functionality and user satisfaction.</li>
+</ul>
+
 
       <p><strong>RecruitMedical | Website Development</strong></p>
       <ul>
         <li>Developed a recruitment platform for medical professionals, streamlining the hiring process.</li>
-        <li>Utilized Vue.js and JavaScript for front-end development to create an intuitive and responsive user interface.</li>
+        <li>Utilized Bootstrap and JavaScript for front-end development to create an intuitive and responsive user interface.</li>
         <li>Designed and implemented backend systems using Java to support application processing and data management.</li>
         <li>Ensured robust security measures were in place to protect sensitive user information.</li>
         <li>Worked closely with stakeholders to gather requirements and deliver a product that met business needs.</li>

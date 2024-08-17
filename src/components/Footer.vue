@@ -27,6 +27,5 @@ export default {
 /* Add any component-specific styles here */
 a {
     color: #ad4852;
-    //text-decoration: underline;
 }
 </style>
