@@ -21,7 +21,7 @@
 						<div class="mx-3 mt-3">
 							<div>
 								<h6>Phone Number</h6>
-								<p><a href="tel:08102378276">08102378276</a></p>
+								<p><a href="tel:08102378276">+2348102378276</a></p>
 							</div>
 
 							<div class="mt-2">

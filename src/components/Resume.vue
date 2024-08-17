@@ -1,11 +1,14 @@
 <template>
   <div class="container mt-5">
     <h2>About Me</h2>
-    <p class="lead">I'm a dedicated software developer with a passion for technology and continuous learning. Below is a brief overview of my background and expertise.</p>
+    <p class="lead">I'm a dedicated software developer with a passion for technology and continuous learning. 
+      Below is a brief overview of my background and expertise.</p>
 
     <section class="mt-4">
       <h3>Career Summary</h3>
-      <p>A dedicated and self-motivated Agricultural Economics graduate with a First Class degree, who transitioned into the field of software development driven by a strong passion for technology. Currently employed at Sichersoft, where I consistently demonstrate a commitment to professional growth and excellence in the tech industry.</p>
+      <p>A dedicated and self-motivated Agricultural Economics graduate with a First Class degree, 
+        who transitioned into the field of software development driven by a strong passion for technology. 
+        Currently employed at <a href="https://www.sichersoft.com/Sichersoft/" target="_blank">Sichersoft</a>, where I consistently demonstrate a commitment to professional growth and excellence in the tech industry.</p>
     </section>
 
     <section class="mt-4">
@@ -24,7 +27,7 @@
 
     <section class="mt-4">
       <h3>Work Experience</h3>
-      <p><strong>Software Specialist | Sichersoft BV</strong> (March 2022 – Present)</p>
+      <p><strong>Software Specialist | <a href="https://www.sichersoft.com/Sichersoft/" target="_blank">Sichersoft BV</a></strong> (March 2022 – Present)</p>
       <ul>
         <li>Review and update software applications to align with current technology standards.</li>
         <li>Create new computer programs or modify existing ones to meet evolving business needs.</li>
@@ -81,7 +84,7 @@
     <section class="mt-4 mb-2">
       <h3>Contact</h3>
       <p><strong>Email:</strong> <a href="mailto:moyinoluwaorimolade0@gmail.com">moyinoluwaorimolade0@gmail.com</a></p>
-      <p><strong>Phone:</strong> +2348102378276</p>
+      <p><strong>Phone:</strong> <a href="tel:08102378276">+2348102378276</a></p>
     </section>
   </div>
 </template>
@@ -114,6 +117,5 @@ ul {
 
 a {
   color: #ad4852;
-  text-decoration: none;
 }
 </style>

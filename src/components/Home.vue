@@ -56,7 +56,10 @@
                     I'm a software developer specializing in Java, Vue.js, JavaScript, and Bootstrap.
                   </p>
                   <p class="text-muted">
-                    A dedicated and self-motivated Agricultural Economics graduate with a First Class degree, who transitioned into the field of software development driven by a strong passion for technology. Currently employed at Sichersoft, where I consistently demonstrate a commitment to professional growth and excellence in the tech industry.
+                    A dedicated and self-motivated Agricultural Economics graduate with a First Class degree, 
+                    who transitioned into the field of software development driven by a strong passion for technology.
+                    Currently employed at <a href="https://www.sichersoft.com/Sichersoft/" target="_blank">Sichersoft</a>, where I consistently demonstrate a commitment to professional growth 
+                    and excellence in the tech industry.
                   </p>
                   <div class="d-flex justify-content-center fs-2 gap-4">
                    <!--<a class="text-gradient" href="#!">
