@@ -13,7 +13,7 @@
             <div v-if= "project.link === 'https://bitbucket.org/moyinoluwaorimolade/workspace'"><p>Click 
               <router-link class="btn btn-primary" to="/privacy">Privacy</router-link> for more details</p>
             </div>
-            <div v-else><br><br> <a  :href="project.link" class="btn btn-primary">View Project</a></div>
+            <div v-else><br><br> <a  :href="project.link" target="_blank" class="btn btn-primary">View Project</a></div>
            
           </div>
         </div>
