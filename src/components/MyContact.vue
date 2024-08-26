@@ -7,7 +7,7 @@
 								<p>Moyinoluwa</p>
 							</div>
 							<div class="mt-1">
-								<h4>Surname</h4>
+								<h4>Last Name</h4>
 								<p>Orimolade</p>
 							</div>
 						</div>
@@ -15,7 +15,7 @@
 
 					<div class="card my-3">
 						<div class="mx-3 mt-1">
-							<h4>Contact details</h4>
+							<h4>Contact Details</h4>
 						</div>
 
 						<div class="mx-3 mt-3">
