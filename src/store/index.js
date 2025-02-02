@@ -20,7 +20,7 @@ export default createStore({
       },
       {
         name: 'RecruitMedical',
-                type: 'Web Application',
+        type: 'Web Application',
         link: 'https://www.recruitmedicalexperts.com',
         description: 'A recruitment platform for medical professionals.',
         technologies: ['JSP', 'JavaScript', 'Java', 'Bootstrap','HTML','CSS']
@@ -28,7 +28,7 @@ export default createStore({
       {
         name: 'AeronatHotel',
         type: 'Web Application',
-        link: 'https://www.aeronat.biz/',
+        link: 'https://www.aeronat.biz/aeronat',
         description: 'An hotel management application website.',
         technologies: ['Vue.js', 'JavaScript', 'Java', 'Bootstrap','HTML','CSS']
       }
