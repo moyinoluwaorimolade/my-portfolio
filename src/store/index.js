@@ -25,6 +25,13 @@ export default createStore({
         description: 'A recruitment platform for medical professionals.',
         technologies: ['JSP', 'JavaScript', 'Java', 'Bootstrap','HTML','CSS']
       },
+      {
+        name: 'AeronatHotel',
+        type: 'Web Application',
+        link: 'https://www.aeronat.biz/',
+        description: 'An hotel management application website.',
+        technologies: ['Vue.js', 'JavaScript', 'Java', 'Bootstrap','HTML','CSS']
+      }
      
     ]
   },

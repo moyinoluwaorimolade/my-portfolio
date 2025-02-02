@@ -31,7 +31,7 @@
 
 							<div class="mt-2">
 								<h6>Linkedin</h6>
-								<p>www.linkedin.com/in/orimolade-moyinoluwa-18915a210</p>
+								<p><a href="www.linkedin.com/in/moyino">LinkedIn Profile URL</a></p>
 							</div>
 
 						</div>

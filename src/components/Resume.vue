@@ -1,97 +1,274 @@
 <template>
   <div class="container mt-5">
     <h2>About Me</h2>
-    <p class="lead">I'm a dedicated software developer with a passion for technology and continuous learning. 
-      Below is a brief overview of my background and expertise.</p>
+    <p class="lead">
+      I'm a dedicated software developer with a passion for technology and
+      continuous learning. Below is a brief overview of my background and
+      expertise.
+    </p>
 
     <section class="mt-4">
       <h3>Career Summary</h3>
-      <p>A dedicated and self-motivated Agricultural Economics graduate with a First Class degree, 
-        who transitioned into the field of software development driven by a strong passion for technology. 
-        Currently employed at <a href="https://www.sichersoft.com/Sichersoft/" target="_blank">Sichersoft</a>, where I consistently demonstrate a commitment to professional growth and excellence in the tech industry.</p>
+      <p>
+        A dedicated and self-motivated Agricultural Economics graduate with a
+        First Class degree, who transitioned into the field of software
+        development driven by a strong passion for technology. Currently
+        employed at
+        <a href="https://www.sichersoft.com/Sichersoft/" target="_blank"
+          >Sichersoft</a
+        >, where I consistently demonstrate a commitment to professional growth
+        and excellence in the tech industry.
+      </p>
     </section>
 
     <section class="mt-4">
       <h3>Core Competence</h3>
       <ul>
-        <li>Software Development: Proficient in developing robust and scalable applications.</li>
-        <li>Team Collaboration: Experience working effectively within a team of five, contributing to collaborative projects.</li>
-        <li>Database Administration: Skilled in managing and maintaining databases to ensure optimal performance.</li>
-        <li>Programming Languages: Proficient in Vue.js, JavaScript, Bootstrap framework, Java, etc.</li>
-        <li>Software Testing: Experienced in software testing using JUnit, ensuring code quality and reliability.</li>
-        <li>Self-Learning: Highly capable of self-teaching new technologies and coding languages to stay current in the field.</li>
-        <li>Deadline Management: Demonstrates the ability to work flexibly and efficiently to meet deadlines, regardless of time constraints.</li>
-        <li>Problem-Solving: Utilizes intelligence and analytical skills to troubleshoot and resolve complex issues.</li>
+        <li>
+          Software Development: Proficient in developing robust and scalable
+          applications.
+        </li>
+        <li>
+          Team Collaboration: Experience working effectively within a team of
+          five, contributing to collaborative projects.
+        </li>
+        <li>
+          Database Administration: Skilled in managing and maintaining databases
+          to ensure optimal performance.
+        </li>
+        <li>
+          Programming Languages: Proficient in Vue.js, JavaScript, Bootstrap
+          framework, Java, etc.
+        </li>
+        <li>
+          Software Testing: Experienced in software testing using JUnit,
+          ensuring code quality and reliability.
+        </li>
+        <li>
+          Self-Learning: Highly capable of self-teaching new technologies and
+          coding languages to stay current in the field.
+        </li>
+        <li>
+          Deadline Management: Demonstrates the ability to work flexibly and
+          efficiently to meet deadlines, regardless of time constraints.
+        </li>
+        <li>
+          Problem-Solving: Utilizes intelligence and analytical skills to
+          troubleshoot and resolve complex issues.
+        </li>
       </ul>
     </section>
 
     <section class="mt-4">
       <h3>Work Experience</h3>
-      <p><strong>Software Specialist | <a href="https://www.sichersoft.com/Sichersoft/" target="_blank">Sichersoft BV</a></strong> (March 2022 – Present)</p>
+      <p>
+        <strong
+          >Software Specialist |
+          <a href="https://www.sichersoft.com/Sichersoft/" target="_blank"
+            >Sichersoft BV</a
+          ></strong
+        >
+        (March 2022 – Present)
+      </p>
       <ul>
-        <li>Review and update software applications to align with current technology standards.</li>
-        <li>Create new computer programs or modify existing ones to meet evolving business needs.</li>
-        <li>Conduct testing of new computer programs to ensure functionality prior to public release.</li>
-        <li>Design new software or modify existing software to meet user requirements.</li>
-        <li>Troubleshoot and resolve issues with existing programs, including bug identification and fixes.</li>
-        <li>Maintain and update computer databases with vital information such as customer records and product inventories.</li>
-        <li>Design and implement security measures to protect computer networks from unauthorized access or damage.</li>
-        <li>Write computer programs using Java, Vue.js, JavaScript, and other frameworks.</li>
-        <li>Provide technical support to users experiencing difficulties with computer applications.</li>
+        <li>
+          Review and update software applications to align with current
+          technology standards.
+        </li>
+        <li>
+          Create new computer programs or modify existing ones to meet evolving
+          business needs.
+        </li>
+        <li>
+          Conduct testing of new computer programs to ensure functionality prior
+          to public release.
+        </li>
+        <li>
+          Design new software or modify existing software to meet user
+          requirements.
+        </li>
+        <li>
+          Troubleshoot and resolve issues with existing programs, including bug
+          identification and fixes.
+        </li>
+        <li>
+          Maintain and update computer databases with vital information such as
+          customer records and product inventories.
+        </li>
+        <li>
+          Design and implement security measures to protect computer networks
+          from unauthorized access or damage.
+        </li>
+        <li>
+          Write computer programs using Java, Vue.js, JavaScript, and other
+          frameworks.
+        </li>
+        <li>
+          Provide technical support to users experiencing difficulties with
+          computer applications.
+        </li>
       </ul>
     </section>
 
     <section class="mt-4">
       <h3>Projects</h3>
       <p><strong>RentItRight | Java Web Application</strong></p>
-<ul>
-  <li>Developed a comprehensive rental property management website using Java Servlets, JSP, CSS, and HTML.</li>
-  <li>Implemented user-friendly interfaces to enhance user experience with traditional web technologies.</li>
-  <li>Built backend services to handle data processing and storage.</li>
-  <li>Integrated database solutions to manage property listings, tenant information, and rental transactions.</li>
-  <li>Collaborated with a team of developers to ensure seamless integration of features and functionalities.</li>
-  <li>Conducted rigorous testing to ensure the website met high standards of performance and reliability.</li>
-</ul>
+      <ul>
+        <li>
+          Developed a comprehensive rental property management website using
+          Java Servlets, JSP, CSS, and HTML.
+        </li>
+        <li>
+          Implemented user-friendly interfaces to enhance user experience with
+          traditional web technologies.
+        </li>
+        <li>Built backend services to handle data processing and storage.</li>
+        <li>
+          Integrated database solutions to manage property listings, tenant
+          information, and rental transactions.
+        </li>
+        <li>
+          Collaborated with a team of developers to ensure seamless integration
+          of features and functionalities.
+        </li>
+        <li>
+          Conducted rigorous testing to ensure the website met high standards of
+          performance and reliability.
+        </li>
+      </ul>
 
-<p><strong>RentItRight | Modern Web Application</strong></p>
-<ul>
-  <li>Revamped the RentItRight project to a modern web application using Vue.js and Bootstrap for the frontend, and Java (Jersey JAX-RS) for the backend.</li>
-  <li>Single-handedly modified the frontend from traditional Java web technologies to a dynamic Vue.js and Bootstrap interface.</li>
-  <li>Rebuilt backend services using Java Jersey JAX-RS to support modern web application needs.</li>
-  <li>Enhanced user experience with a responsive and interactive frontend while ensuring robust backend performance.</li>
-  <li>Maintained and updated the application to incorporate new features and improvements based on user feedback.</li>
-  <li>Performed comprehensive testing to ensure functionality and user satisfaction.</li>
-</ul>
-
+      <p><strong>RentItRight | Modern Web Application</strong></p>
+      <ul>
+        <li>
+          Revamped the RentItRight project to a modern web application using
+          Vue.js and Bootstrap for the frontend, and Java (Jersey JAX-RS) for
+          the backend.
+        </li>
+        <li>
+          Single-handedly modified the frontend from traditional Java web
+          technologies to a dynamic Vue.js and Bootstrap interface.
+        </li>
+        <li>
+          Rebuilt backend services using Java Jersey JAX-RS to support modern
+          web application needs.
+        </li>
+        <li>
+          Enhanced user experience with a responsive and interactive frontend
+          while ensuring robust backend performance.
+        </li>
+        <li>
+          Maintained and updated the application to incorporate new features and
+          improvements based on user feedback.
+        </li>
+        <li>
+          Performed comprehensive testing to ensure functionality and user
+          satisfaction.
+        </li>
+      </ul>
 
       <p><strong>RecruitMedical | Website Development</strong></p>
       <ul>
-        <li>Developed a recruitment platform for medical professionals, streamlining the hiring process.</li>
-        <li>Utilized Bootstrap and JavaScript for front-end development to create an intuitive and responsive user interface.</li>
-        <li>Designed and implemented backend systems using Java to support application processing and data management.</li>
-        <li>Ensured robust security measures were in place to protect sensitive user information.</li>
-        <li>Worked closely with stakeholders to gather requirements and deliver a product that met business needs.</li>
-        <li>Performed comprehensive testing and debugging to ensure functionality and user satisfaction.</li>
+        <li>
+          Developed a recruitment platform for medical professionals,
+          streamlining the hiring process.
+        </li>
+        <li>
+          Utilized Bootstrap and JavaScript for front-end development to create
+          an intuitive and responsive user interface.
+        </li>
+        <li>
+          Designed and implemented backend systems using Java to support
+          application processing and data management.
+        </li>
+        <li>
+          Ensured robust security measures were in place to protect sensitive
+          user information.
+        </li>
+        <li>
+          Worked closely with stakeholders to gather requirements and deliver a
+          product that met business needs.
+        </li>
+        <li>
+          Performed comprehensive testing and debugging to ensure functionality
+          and user satisfaction.
+        </li>
+      </ul>
+
+      <p><strong>AeronatHotel | Website Development</strong></p>
+      <ul>
+        <li>
+          Developed a hotel management platform for efficient monitoring,
+          record-keeping, auditing, and staff performance tracking.
+        </li>
+        <li>
+          Designed and implemented backend systems using Java (Jersey JAX-RS) to
+          provide secure and scalable API endpoints.
+        </li>
+        <li>
+          Implemented robust security measures to protect sensitive user data
+          through authentication, authorization, and user identification using a
+          custom OAuth 2.0 solution.
+        </li>
+        <li>Utilized MySQL for secure and efficient database management.</li>
+        <li>
+          Leveraged modular microservices architecture to enhance reusability,
+          scalability, and debugging efficiency.
+        </li>
+        <li>
+          Collaborated with stakeholders to gather requirements and deliver a
+          solution aligned with business objectives.
+        </li>
+        <li>
+          Conducted comprehensive testing and debugging to ensure system
+          reliability and user satisfaction.
+        </li>
       </ul>
     </section>
 
     <section class="mt-4">
       <h3>Education</h3>
       <p><strong>B.Sc. Agricultural Economics and Extension</strong> (2021)</p>
-      <p>Ekiti State University, Ado Ekiti, Ekiti State - First Class Honors (4.70/5.0 CGPA)</p>
+      <p>
+        Ekiti State University, Ado Ekiti, Ekiti State - First Class Honors
+        (4.70/5.0 CGPA)
+      </p>
     </section>
+    <section class="mt-4">
+      <h3>Certification</h3>
+      <p><strong>Unix Tools</strong></p>
+      <p><a href="https://courses.edx.org/certificates/6437914a761642d293ec6a6f249e31ff"
+          >edX Verified Certificate for Unix Tools: Data, Software and Production Engineering</a
+        >
+      </p>
+    </section>
+
+    <section class="mt-4">
+  <h3>Languages</h3>
+  <ul>
+    <li>English – Fluent</li>
+    <li>Yoruba – Fluent</li>
+    <li>German (A2 Level) – Certified (Exam passed; results available upon request)</li>
+  </ul>
+</section>
 
     <section class="mt-4 mb-2">
       <h3>Contact</h3>
-      <p><strong>Email:</strong> <a href="mailto:moyinoluwaorimolade0@gmail.com">moyinoluwaorimolade0@gmail.com</a></p>
-      <p><strong>Phone:</strong> <a href="tel:08102378276">+2348102378276</a></p>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:moyinoluwaorimolade0@gmail.com"
+          >moyinoluwaorimolade0@gmail.com</a
+        >
+      </p>
+      <p>
+        <strong>Phone:</strong> <a href="tel:08102378276">+2348102378276</a>
+      </p>
     </section>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'About'
+  name: "About",
 };
 </script>
 
@@ -101,12 +278,14 @@ export default {
   margin: auto;
 }
 
-h2, h3 {
+h2,
+h3 {
   color: #343a40;
   margin-bottom: 20px;
 }
 
-p, li {
+p,
+li {
   color: #555;
 }
 

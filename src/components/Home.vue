@@ -66,7 +66,7 @@
                       <i class="bi bi-twitter"></i>
                     </a> --> 
                     
-                    <a class="text-gradient" href="www.linkedin.com/in/orimolade-moyinoluwa-18915a210" target="_blank" rel="noopener noreferrer">
+                    <a class="text-gradient" href="www.linkedin.com/in/moyino" target="_blank" rel="noopener noreferrer">
                       <i class="bi bi-linkedin"></i>
                     </a>
                     <a class="text-gradient" href="https://bitbucket.org/moyinoluwaorimolade/workspace/"
