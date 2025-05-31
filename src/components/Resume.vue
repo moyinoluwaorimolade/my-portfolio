@@ -10,8 +10,7 @@
     <section class="mt-4">
       <h3>Career Summary</h3>
       <p>
-        A dedicated and self-motivated Agricultural Economics graduate with a
-        First Class degree, who transitioned into the field of software
+        A dedicated and self-motivated  First Class graduate, who transitioned into the field of software
         development driven by a strong passion for technology. Currently
         employed at
         <a href="https://www.sichersoft.com/Sichersoft/" target="_blank"
@@ -29,11 +28,10 @@
           applications.
         </li>
         <li>
-          Team Collaboration: Experience working effectively within a team of
-          five, contributing to collaborative projects.
+          Team Collaboration: Experience working effectively within a team, contributing to collaborative projects.
         </li>
         <li>
-          Database Administration: Skilled in managing and maintaining databases
+          Database Administration: Skilled in managing and maintaining databases such as MySQL
           to ensure optimal performance.
         </li>
         <li>
@@ -221,6 +219,9 @@
         <li>
           Conducted comprehensive testing and debugging to ensure system
           reliability and user satisfaction.
+        </li>
+        <li>
+          Currently designing the other modules with java (Springboot) and keycloak for identity management (Resource Owner Password Credential).
         </li>
       </ul>
     </section>
