@@ -139,7 +139,7 @@
       <ul>
         <li>
           Revamped the RentItRight project to a modern web application using
-          Vue.js and Bootstrap for the frontend, and Java (Jersey JAX-RS) for
+          Vue.js and Bootstrap for the frontend, and Java for
           the backend.
         </li>
         <li>
@@ -199,7 +199,7 @@
           record-keeping, auditing, and staff performance tracking.
         </li>
         <li>
-          Designed and implemented backend systems using Java (Jersey JAX-RS) to
+          Designed and implemented backend systems using Java to
           provide secure and scalable API endpoints.
         </li>
         <li>
@@ -248,7 +248,7 @@
   <ul>
     <li>English – Fluent</li>
     <li>Yoruba – Fluent</li>
-    <li>German (A2 Level) – Certified (Exam passed; results available upon request)</li>
+    <li>German (B2 Level) – Certified (Exam passed; results available upon request)</li>
   </ul>
 </section>
 

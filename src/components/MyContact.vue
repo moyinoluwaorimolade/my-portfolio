@@ -26,7 +26,7 @@
 
 							<div class="mt-2">
 								<h6>Email Address</h6>
-								<p><a href="mailto:moyinoluwaorimolade0@gmail.com" >moyinoluwaorimolade0@gmail.com</a></p>
+								<p><a href="mailto:moyinoluwaafeke@gmail.com" >moyinoluwaafeke@gmail.com</a></p>
 															</div>
 
 							<div class="mt-2">
