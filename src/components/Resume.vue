@@ -221,14 +221,24 @@
           reliability and user satisfaction.
         </li>
         <li>
-          Currently designing the other modules with java (Springboot) and keycloak for identity management (Resource Owner Password Credential).
+          Designed the modules with java (Springboot) and keycloak for identity management (Resource Owner Password Credential).
         </li>
       </ul>
     </section>
 
     <section class="mt-4">
+  <h3>Technologies</h3>
+  <ul>
+    <li>Backend – Java, JEE, SpringBoot, Spring, MySQL, Oauth2.0, Maven</li>
+    <li>Frontend – Vue.js, JavaScript</li>
+    <li>Frontend (Basics)– React</li>
+    <li>Tools & Methods – Docker, Linux, Git, Scrum/Agile, Junit, Postman, Selenium, Eclipse, Visual Code</li>
+  </ul>
+</section>
+
+    <section class="mt-4">
       <h3>Education</h3>
-      <p><strong>B.Sc. Agricultural Economics and Extension</strong> (2021)</p>
+      <p><strong>Bachelors in Agricultural Economics and Extension</strong> (2021)</p>
       <p>
         Ekiti State University, Ado Ekiti, Ekiti State - First Class Honors
         (4.70/5.0 CGPA)
@@ -236,11 +246,13 @@
     </section>
     <section class="mt-4">
       <h3>Certification</h3>
-      <p><strong>Unix Tools</strong></p>
-      <p><a href="https://courses.edx.org/certificates/6437914a761642d293ec6a6f249e31ff"
-          >edX Verified Certificate for Unix Tools: Data, Software and Production Engineering</a
-        >
-      </p>
+      <p><strong>Delft University of Technology</strong></p>
+      <p><a>Unix Tools: Data,Software and Production Engineering</a>
+      </p><br>
+
+      <p><strong>Sichersoft BV</strong></p>
+      <p><a>Professional Training in Java Program and Web Application Development</a>
+      </p><br>
     </section>
 
     <section class="mt-4">

@@ -8,7 +8,7 @@
             <h5 class="card-title">{{ project.name }}</h5>
             <p class="card-text">{{ project.type }}</p>
             <p class="card-text">{{ project.description }}</p>
-            <p class="card-text"><strong>Technologies Used:</strong> {{ project.technologies.join(', ') }}</p>
+           
             <p v-if= "project.link === 'https://bitbucket.org/moyinoluwaorimolade/workspace'">NOTE: Accessible to authorised individuals</p>
             <div v-if= "project.link === 'https://bitbucket.org/moyinoluwaorimolade/workspace'"><p>Click 
               <router-link class="btn btn-primary" to="/privacy">Privacy</router-link> for more details</p>
