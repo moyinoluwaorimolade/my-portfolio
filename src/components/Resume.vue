@@ -246,12 +246,12 @@
     </section>
     <section class="mt-4">
       <h3>Certification</h3>
-      <p><strong>Delft University of Technology</strong></p>
-      <p><a>Unix Tools: Data,Software and Production Engineering</a>
+      <p><strong>Unix Tools: Data,Software and Production Engineering</strong></p>
+      <p><a>Delft University of Technology</a>
       </p><br>
 
-      <p><strong>Sichersoft BV</strong></p>
-      <p><a>Professional Training in Java Program and Web Application Development</a>
+      <p><strong>Professional Training in Java Program and Web Application Development</strong></p>
+      <p><a>Sichersoft BV</a>
       </p><br>
     </section>
 
